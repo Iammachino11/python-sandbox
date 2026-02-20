@@ -1,0 +1,2 @@
+# Core dependency for album metadata editor
+mutagen>=1.47.0
