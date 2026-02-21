@@ -1,0 +1,5 @@
+# No external dependencies required!
+# This tool uses only Python standard library.
+#
+# For development:
+# pip install -r requirements-dev.txt
